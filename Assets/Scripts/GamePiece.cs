@@ -52,6 +52,7 @@ public class GamePiece : MonoBehaviour
     /// <returns>Game piece's parent tile.</returns>
     public Tile GetGamePieceParentTile()
     {
+        //Debug.Log("Called GetGamePieceParentTile(), parent tile: " + parentTile.name);
         return parentTile;
     }
 
@@ -75,16 +76,18 @@ public class GamePiece : MonoBehaviour
         name = newName;
     }
 
-
     /// <summary>
     /// Return if wanted tile position is valid to move to.
     /// </summary>
     /// <returns>Always returns true</returns>
-    public bool TilePositionIsValid(Tile wantedTilePosiotion)
+    public bool TilePositionIsValid(Tile wantedTile)
     {
+        Debug.Log("Called function \"TilePositionIsValid()\" in class \"GamePiece\"");
         return true;
     }
 }
+
+
 
 
 enum PieceName

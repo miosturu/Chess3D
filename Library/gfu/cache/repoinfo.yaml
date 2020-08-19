@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-07-29T17:26:19.153+03:00
-  initializedAtString: 2020-07-29T17:26:19.153+03:00
+  lastUpdatedAtString: 2020-08-19T14:28:46.356+03:00
+  initializedAtString: 2020-08-19T14:28:46.356+03:00
   currentGitRemote:
     name: origin
-    url: Chess3D
+    url: https://github.com/miosturu/Chess3D.git
     login: 
     user: 
     host: 
@@ -25,14 +25,14 @@ MonoBehaviour:
     token: 
   currentGitBranch:
     name: master
-    tracking: 
+    tracking: origin/master
   currentConfigBranch:
     name: master
     remote:
-      name: 
-      url: 
-    trackingBranch: 
+      name: origin
+      url: https://github.com/miosturu/Chess3D.git
+    trackingBranch: master
   currentConfigRemote:
     name: origin
-    url: Chess3D
+    url: https://github.com/miosturu/Chess3D.git
   currentHead: 

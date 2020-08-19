@@ -107,6 +107,7 @@ public class TileMap : MonoBehaviour
     /// <returns>Current piece on the tile.</returns>
     public GameObject GetGamePieceAt(Tile tile)
     {
+        //Debug.Log("Fetching game piece on tile " + tile.name);
         return tile.GetGamepieceOnThisTile();
     }
 

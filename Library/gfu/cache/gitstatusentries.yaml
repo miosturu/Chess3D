@@ -13,6 +13,871 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-07-29T17:34:27.495+03:00
-  initializedAtString: 2020-07-29T17:26:19.584+03:00
-  entries: []
+  lastUpdatedAtString: 2020-08-19T14:34:25.794+03:00
+  initializedAtString: 2020-08-19T14:28:47.850+03:00
+  entries:
+  - path: .vs\Chess3D\v15\.suo
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\.vs\Chess3D\v15\.suo
+    projectPath: .vs\Chess3D\v15\.suo
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs\Chess3D\v15\Server\sqlite3\storage.ide
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\.vs\Chess3D\v15\Server\sqlite3\storage.ide
+    projectPath: .vs\Chess3D\v15\Server\sqlite3\storage.ide
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs\Chess3D\v15\Server\sqlite3\storage.ide-shm
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\.vs\Chess3D\v15\Server\sqlite3\storage.ide-shm
+    projectPath: .vs\Chess3D\v15\Server\sqlite3\storage.ide-shm
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: .vs\Chess3D\v15\Server\sqlite3\storage.ide-wal
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\.vs\Chess3D\v15\Server\sqlite3\storage.ide-wal
+    projectPath: .vs\Chess3D\v15\Server\sqlite3\storage.ide-wal
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assembly-CSharp.csproj
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Fonts.meta
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Fonts.meta
+    projectPath: Assets\Fonts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-Black.ttf
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Fonts\Roboto-Black.ttf
+    projectPath: Assets\Fonts\Roboto-Black.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Fonts\Roboto-Black.ttf.meta
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Fonts\Roboto-Black.ttf.meta
+    projectPath: Assets\Fonts\Roboto-Black.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\material_piece_black.mat
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Materials\material_piece_black.mat
+    projectPath: Assets\Materials\material_piece_black.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\material_piece_black.mat.meta
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Materials\material_piece_black.mat.meta
+    projectPath: Assets\Materials\material_piece_black.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\material_piece_white.mat
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Materials\material_piece_white.mat
+    projectPath: Assets\Materials\material_piece_white.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\material_piece_white.mat.meta
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Materials\material_piece_white.mat.meta
+    projectPath: Assets\Materials\material_piece_white.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\gamePice_pawn.obj
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Models\gamePice_pawn.obj
+    projectPath: Assets\Models\gamePice_pawn.obj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\gamePice_pawn.obj.meta
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Models\gamePice_pawn.obj.meta
+    projectPath: Assets\Models\gamePice_pawn.obj.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\gamePiece_bishop.obj
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Models\gamePiece_bishop.obj
+    projectPath: Assets\Models\gamePiece_bishop.obj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\gamePiece_bishop.obj.meta
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Models\gamePiece_bishop.obj.meta
+    projectPath: Assets\Models\gamePiece_bishop.obj.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\gamePiece_king.obj
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Models\gamePiece_king.obj
+    projectPath: Assets\Models\gamePiece_king.obj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\gamePiece_king.obj.meta
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Models\gamePiece_king.obj.meta
+    projectPath: Assets\Models\gamePiece_king.obj.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\gamePiece_knight.obj
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Models\gamePiece_knight.obj
+    projectPath: Assets\Models\gamePiece_knight.obj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\gamePiece_knight.obj.meta
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Models\gamePiece_knight.obj.meta
+    projectPath: Assets\Models\gamePiece_knight.obj.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\gamePiece_pawn.obj
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Models\gamePiece_pawn.obj
+    projectPath: Assets\Models\gamePiece_pawn.obj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\gamePiece_pawn.obj.meta
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Models\gamePiece_pawn.obj.meta
+    projectPath: Assets\Models\gamePiece_pawn.obj.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\gamePiece_queen.obj
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Models\gamePiece_queen.obj
+    projectPath: Assets\Models\gamePiece_queen.obj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\gamePiece_queen.obj.meta
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Models\gamePiece_queen.obj.meta
+    projectPath: Assets\Models\gamePiece_queen.obj.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\gamePiece_rook.obj
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Models\gamePiece_rook.obj
+    projectPath: Assets\Models\gamePiece_rook.obj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\gamePiece_rook.obj.meta
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Models\gamePiece_rook.obj.meta
+    projectPath: Assets\Models\gamePiece_rook.obj.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Prefabs\Gamepiece.prefab
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Prefabs\Gamepiece.prefab
+    projectPath: Assets\Prefabs\Gamepiece.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scenes\SampleScene.unity
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Game Pieces.meta
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Scripts\Game
+      Pieces.meta
+    projectPath: Assets\Scripts\Game Pieces.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Game Pieces\Bishop.cs
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Scripts\Game
+      Pieces\Bishop.cs
+    projectPath: Assets\Scripts\Game Pieces\Bishop.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Game Pieces\Bishop.cs.meta
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Scripts\Game
+      Pieces\Bishop.cs.meta
+    projectPath: Assets\Scripts\Game Pieces\Bishop.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Game Pieces\King.cs
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Scripts\Game
+      Pieces\King.cs
+    projectPath: Assets\Scripts\Game Pieces\King.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Game Pieces\King.cs.meta
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Scripts\Game
+      Pieces\King.cs.meta
+    projectPath: Assets\Scripts\Game Pieces\King.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Game Pieces\Knight.cs
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Scripts\Game
+      Pieces\Knight.cs
+    projectPath: Assets\Scripts\Game Pieces\Knight.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Game Pieces\Knight.cs.meta
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Scripts\Game
+      Pieces\Knight.cs.meta
+    projectPath: Assets\Scripts\Game Pieces\Knight.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Game Pieces\Pawn.cs
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Scripts\Game
+      Pieces\Pawn.cs
+    projectPath: Assets\Scripts\Game Pieces\Pawn.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Game Pieces\Pawn.cs.meta
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Scripts\Game
+      Pieces\Pawn.cs.meta
+    projectPath: Assets\Scripts\Game Pieces\Pawn.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Game Pieces\Queen.cs
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Scripts\Game
+      Pieces\Queen.cs
+    projectPath: Assets\Scripts\Game Pieces\Queen.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Game Pieces\Queen.cs.meta
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Scripts\Game
+      Pieces\Queen.cs.meta
+    projectPath: Assets\Scripts\Game Pieces\Queen.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Game Pieces\Rook.cs
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Scripts\Game
+      Pieces\Rook.cs
+    projectPath: Assets\Scripts\Game Pieces\Rook.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\Game Pieces\Rook.cs.meta
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Scripts\Game
+      Pieces\Rook.cs.meta
+    projectPath: Assets\Scripts\Game Pieces\Rook.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Scripts\GameManager.cs
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Scripts\GameManager.cs
+    projectPath: Assets\Scripts\GameManager.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\GamePiece.cs
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Scripts\GamePiece.cs
+    projectPath: Assets\Scripts\GamePiece.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\TileMap.cs
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Scripts\TileMap.cs
+    projectPath: Assets\Scripts\TileMap.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\UIManager.cs
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Scripts\UIManager.cs
+    projectPath: Assets\Scripts\UIManager.cs
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Sounds.meta
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Sounds.meta
+    projectPath: Assets\Sounds.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\chessPieceMove1.wav
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Sounds\chessPieceMove1.wav
+    projectPath: Assets\Sounds\chessPieceMove1.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\chessPieceMove1.wav.meta
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Sounds\chessPieceMove1.wav.meta
+    projectPath: Assets\Sounds\chessPieceMove1.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\chessPieceMove2.wav
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Sounds\chessPieceMove2.wav
+    projectPath: Assets\Sounds\chessPieceMove2.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\chessPieceMove2.wav.meta
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Sounds\chessPieceMove2.wav.meta
+    projectPath: Assets\Sounds\chessPieceMove2.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\chessPieceMove3.wav
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Sounds\chessPieceMove3.wav
+    projectPath: Assets\Sounds\chessPieceMove3.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\chessPieceMove3.wav.meta
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Assets\Sounds\chessPieceMove3.wav.meta
+    projectPath: Assets\Sounds\chessPieceMove3.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\assetDatabase3
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentLayout.dwlt
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\12\12733100e75ad604e817709ecd38acea
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\12\12733100e75ad604e817709ecd38acea
+    projectPath: Library\metadata\12\12733100e75ad604e817709ecd38acea
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\13\13d2575a13fdb294e9ceafee0fdce2aa
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\13\13d2575a13fdb294e9ceafee0fdce2aa
+    projectPath: Library\metadata\13\13d2575a13fdb294e9ceafee0fdce2aa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\13\13d2575a13fdb294e9ceafee0fdce2aa.info
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\13\13d2575a13fdb294e9ceafee0fdce2aa.info
+    projectPath: Library\metadata\13\13d2575a13fdb294e9ceafee0fdce2aa.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\28\28a158fef9b4b5f478bee40a6875f67d
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\28\28a158fef9b4b5f478bee40a6875f67d
+    projectPath: Library\metadata\28\28a158fef9b4b5f478bee40a6875f67d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\28\28a158fef9b4b5f478bee40a6875f67d.info
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\28\28a158fef9b4b5f478bee40a6875f67d.info
+    projectPath: Library\metadata\28\28a158fef9b4b5f478bee40a6875f67d.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\36\3607dcabac0ba06459131641aa249586
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\36\3607dcabac0ba06459131641aa249586
+    projectPath: Library\metadata\36\3607dcabac0ba06459131641aa249586
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\36\3607dcabac0ba06459131641aa249586.info
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\36\3607dcabac0ba06459131641aa249586.info
+    projectPath: Library\metadata\36\3607dcabac0ba06459131641aa249586.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\3d\3ddbf8fa97861034dbc573f7ff075ab1
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\3d\3ddbf8fa97861034dbc573f7ff075ab1
+    projectPath: Library\metadata\3d\3ddbf8fa97861034dbc573f7ff075ab1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\3d\3ddbf8fa97861034dbc573f7ff075ab1.info
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\3d\3ddbf8fa97861034dbc573f7ff075ab1.info
+    projectPath: Library\metadata\3d\3ddbf8fa97861034dbc573f7ff075ab1.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\41\412dac7f14cd96343b7c9bea99af8e36
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\41\412dac7f14cd96343b7c9bea99af8e36
+    projectPath: Library\metadata\41\412dac7f14cd96343b7c9bea99af8e36
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\41\41b75d26ce6bbf145a0dd2ddcab529aa
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\41\41b75d26ce6bbf145a0dd2ddcab529aa
+    projectPath: Library\metadata\41\41b75d26ce6bbf145a0dd2ddcab529aa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\41\41b75d26ce6bbf145a0dd2ddcab529aa.info
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\41\41b75d26ce6bbf145a0dd2ddcab529aa.info
+    projectPath: Library\metadata\41\41b75d26ce6bbf145a0dd2ddcab529aa.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\43\4341037a1ebb8ec4ab8d46e383158455
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\43\4341037a1ebb8ec4ab8d46e383158455
+    projectPath: Library\metadata\43\4341037a1ebb8ec4ab8d46e383158455
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\43\4341037a1ebb8ec4ab8d46e383158455.info
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\43\4341037a1ebb8ec4ab8d46e383158455.info
+    projectPath: Library\metadata\43\4341037a1ebb8ec4ab8d46e383158455.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\4b\4b5d802acb058da47bfcc69dc30650c9
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\4b\4b5d802acb058da47bfcc69dc30650c9
+    projectPath: Library\metadata\4b\4b5d802acb058da47bfcc69dc30650c9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\4b\4b5d802acb058da47bfcc69dc30650c9.info
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\4b\4b5d802acb058da47bfcc69dc30650c9.info
+    projectPath: Library\metadata\4b\4b5d802acb058da47bfcc69dc30650c9.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\50\5026607d1c251ba45adf05161d69875b
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\50\5026607d1c251ba45adf05161d69875b
+    projectPath: Library\metadata\50\5026607d1c251ba45adf05161d69875b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\50\5026607d1c251ba45adf05161d69875b.info
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\50\5026607d1c251ba45adf05161d69875b.info
+    projectPath: Library\metadata\50\5026607d1c251ba45adf05161d69875b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\50\5026607d1c251ba45adf05161d69875b.resource
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\50\5026607d1c251ba45adf05161d69875b.resource
+    projectPath: Library\metadata\50\5026607d1c251ba45adf05161d69875b.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\5a\5a3dd5de4dc281f46972d4bf31871d2b
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\5a\5a3dd5de4dc281f46972d4bf31871d2b
+    projectPath: Library\metadata\5a\5a3dd5de4dc281f46972d4bf31871d2b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\5a\5a3dd5de4dc281f46972d4bf31871d2b.info
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\5a\5a3dd5de4dc281f46972d4bf31871d2b.info
+    projectPath: Library\metadata\5a\5a3dd5de4dc281f46972d4bf31871d2b.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\76\7656dfc5732c57346bbbd27a28c7a1ac
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\76\7656dfc5732c57346bbbd27a28c7a1ac
+    projectPath: Library\metadata\76\7656dfc5732c57346bbbd27a28c7a1ac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\76\7656dfc5732c57346bbbd27a28c7a1ac.info
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\76\7656dfc5732c57346bbbd27a28c7a1ac.info
+    projectPath: Library\metadata\76\7656dfc5732c57346bbbd27a28c7a1ac.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\8d\8d90ece850cc1e44f8b43ff5dfb89d61
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\8d\8d90ece850cc1e44f8b43ff5dfb89d61
+    projectPath: Library\metadata\8d\8d90ece850cc1e44f8b43ff5dfb89d61
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\8d\8d90ece850cc1e44f8b43ff5dfb89d61.info
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\8d\8d90ece850cc1e44f8b43ff5dfb89d61.info
+    projectPath: Library\metadata\8d\8d90ece850cc1e44f8b43ff5dfb89d61.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\98\98c841b08d91f5e47b8677ee1a71a5d1
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\98\98c841b08d91f5e47b8677ee1a71a5d1
+    projectPath: Library\metadata\98\98c841b08d91f5e47b8677ee1a71a5d1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\98\98c841b08d91f5e47b8677ee1a71a5d1.info
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\98\98c841b08d91f5e47b8677ee1a71a5d1.info
+    projectPath: Library\metadata\98\98c841b08d91f5e47b8677ee1a71a5d1.info
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\af\af1888e30996e0047996eef768349636
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\af\af1888e30996e0047996eef768349636
+    projectPath: Library\metadata\af\af1888e30996e0047996eef768349636
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\af\af1888e30996e0047996eef768349636.info
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\af\af1888e30996e0047996eef768349636.info
+    projectPath: Library\metadata\af\af1888e30996e0047996eef768349636.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\bb\bb01d47c1a392db469a0c6728b96ef2a
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\bb\bb01d47c1a392db469a0c6728b96ef2a
+    projectPath: Library\metadata\bb\bb01d47c1a392db469a0c6728b96ef2a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\c3\c3ebd5463240d354a9dbccd7392506f7
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\c3\c3ebd5463240d354a9dbccd7392506f7
+    projectPath: Library\metadata\c3\c3ebd5463240d354a9dbccd7392506f7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\cd\cd05744a78368de45affa067cffb35d2
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\cd\cd05744a78368de45affa067cffb35d2
+    projectPath: Library\metadata\cd\cd05744a78368de45affa067cffb35d2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\metadata\ce\ce37db5fe3468c444bcf697cbd42fcb1
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\ce\ce37db5fe3468c444bcf697cbd42fcb1
+    projectPath: Library\metadata\ce\ce37db5fe3468c444bcf697cbd42fcb1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ce\ce37db5fe3468c444bcf697cbd42fcb1.info
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\ce\ce37db5fe3468c444bcf697cbd42fcb1.info
+    projectPath: Library\metadata\ce\ce37db5fe3468c444bcf697cbd42fcb1.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\db\db2ec8ca67f80c746a48787b89fa35e0
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\db\db2ec8ca67f80c746a48787b89fa35e0
+    projectPath: Library\metadata\db\db2ec8ca67f80c746a48787b89fa35e0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\db\db2ec8ca67f80c746a48787b89fa35e0.info
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\db\db2ec8ca67f80c746a48787b89fa35e0.info
+    projectPath: Library\metadata\db\db2ec8ca67f80c746a48787b89fa35e0.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\db\db2ec8ca67f80c746a48787b89fa35e0.resource
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\db\db2ec8ca67f80c746a48787b89fa35e0.resource
+    projectPath: Library\metadata\db\db2ec8ca67f80c746a48787b89fa35e0.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\dc\dc01d681b8e651c4092a98400b4e4e02
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\dc\dc01d681b8e651c4092a98400b4e4e02
+    projectPath: Library\metadata\dc\dc01d681b8e651c4092a98400b4e4e02
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\dc\dc01d681b8e651c4092a98400b4e4e02.info
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\dc\dc01d681b8e651c4092a98400b4e4e02.info
+    projectPath: Library\metadata\dc\dc01d681b8e651c4092a98400b4e4e02.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\dc\dc01d681b8e651c4092a98400b4e4e02.resource
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\dc\dc01d681b8e651c4092a98400b4e4e02.resource
+    projectPath: Library\metadata\dc\dc01d681b8e651c4092a98400b4e4e02.resource
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\df\df90e73d41c0a0b4d9645b76b12091ca
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\df\df90e73d41c0a0b4d9645b76b12091ca
+    projectPath: Library\metadata\df\df90e73d41c0a0b4d9645b76b12091ca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\df\df90e73d41c0a0b4d9645b76b12091ca.info
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\df\df90e73d41c0a0b4d9645b76b12091ca.info
+    projectPath: Library\metadata\df\df90e73d41c0a0b4d9645b76b12091ca.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\e6\e6b3ee35d091fef49b20ba79743771d3
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\e6\e6b3ee35d091fef49b20ba79743771d3
+    projectPath: Library\metadata\e6\e6b3ee35d091fef49b20ba79743771d3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\e6\e6b3ee35d091fef49b20ba79743771d3.info
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\e6\e6b3ee35d091fef49b20ba79743771d3.info
+    projectPath: Library\metadata\e6\e6b3ee35d091fef49b20ba79743771d3.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ee\ee20011665946b34c9e8a0953979ea46
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\ee\ee20011665946b34c9e8a0953979ea46
+    projectPath: Library\metadata\ee\ee20011665946b34c9e8a0953979ea46
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\ee\ee20011665946b34c9e8a0953979ea46.info
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\ee\ee20011665946b34c9e8a0953979ea46.info
+    projectPath: Library\metadata\ee\ee20011665946b34c9e8a0953979ea46.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f0\f047a0f985fc31b41b691d718533eb6c
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\f0\f047a0f985fc31b41b691d718533eb6c
+    projectPath: Library\metadata\f0\f047a0f985fc31b41b691d718533eb6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f0\f047a0f985fc31b41b691d718533eb6c.info
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\f0\f047a0f985fc31b41b691d718533eb6c.info
+    projectPath: Library\metadata\f0\f047a0f985fc31b41b691d718533eb6c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f9\f9932a4b82f758049ae00123e200dfda
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\f9\f9932a4b82f758049ae00123e200dfda
+    projectPath: Library\metadata\f9\f9932a4b82f758049ae00123e200dfda
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\metadata\f9\f9932a4b82f758049ae00123e200dfda.info
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\metadata\f9\f9932a4b82f758049ae00123e200dfda.info
+    projectPath: Library\metadata\f9\f9932a4b82f758049ae00123e200dfda.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\4\44db9b76361bfd338f931a8a9ee7ff96.bin
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\ShaderCache\4\44db9b76361bfd338f931a8a9ee7ff96.bin
+    projectPath: Library\ShaderCache\4\44db9b76361bfd338f931a8a9ee7ff96.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4dac1ea7f6c1613813c1f68c87b309f4.bin
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\ShaderCache\4\4dac1ea7f6c1613813c1f68c87b309f4.bin
+    projectPath: Library\ShaderCache\4\4dac1ea7f6c1613813c1f68c87b309f4.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\73f6d5fd8c36e4b008120020aa1d69f9.bin
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\ShaderCache\7\73f6d5fd8c36e4b008120020aa1d69f9.bin
+    projectPath: Library\ShaderCache\7\73f6d5fd8c36e4b008120020aa1d69f9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\79cfe4fe58752d07482abc0074d626a0.bin
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\ShaderCache\7\79cfe4fe58752d07482abc0074d626a0.bin
+    projectPath: Library\ShaderCache\7\79cfe4fe58752d07482abc0074d626a0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9d8d91a63b0ebe02ac24ea0d6dc75778.bin
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\ShaderCache\9\9d8d91a63b0ebe02ac24ea0d6dc75778.bin
+    projectPath: Library\ShaderCache\9\9d8d91a63b0ebe02ac24ea0d6dc75778.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\f\f7cea373af430fb90e000b0e287bd6cb.bin
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\ShaderCache\f\f7cea373af430fb90e000b0e287bd6cb.bin
+    projectPath: Library\ShaderCache\f\f7cea373af430fb90e000b0e287bd6cb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\Hierarchy\ccaf0d-12733100e75ad604e8.json
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\StateCache\Hierarchy\ccaf0d-12733100e75ad604e8.json
+    projectPath: Library\StateCache\Hierarchy\ccaf0d-12733100e75ad604e8.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\Hierarchy\ccaf0d-mainStage.json
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\StateCache\Hierarchy\ccaf0d-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\ccaf0d-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\08aac3-12733100e75ad604e8.json
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\StateCache\SceneView\08aac3-12733100e75ad604e8.json
+    projectPath: Library\StateCache\SceneView\08aac3-12733100e75ad604e8.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\StateCache\SceneView\08aac3-mainStage.json
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Library\StateCache\SceneView\08aac3-mainStage.json
+    projectPath: Library\StateCache\SceneView\08aac3-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\QualitySettings.asset
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\UnityConnectSettings.asset
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\ProjectSettings\UnityConnectSettings.asset
+    projectPath: ProjectSettings\UnityConnectSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\ProcessJobs\ab30c7bcae888f8a20ac9ec5bfbfa3a6.bakert
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Temp\ProcessJobs\ab30c7bcae888f8a20ac9ec5bfbfa3a6.bakert
+    projectPath: Temp\ProcessJobs\ab30c7bcae888f8a20ac9ec5bfbfa3a6.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\m1kk0\Documents\Unity Projects\Chess3D\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
